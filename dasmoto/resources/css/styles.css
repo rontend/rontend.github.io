@@ -25,7 +25,7 @@ h1 {
   font-weight: bold;
   color: khaki;
   text-align: center;
-  background-image: url("./resources/images/pattern.jpeg");
+  background-image: url("/dasmoto/resources/images/pattern.jpeg");
 }
 
 span {
